@@ -343,13 +343,17 @@ fix it really soon)
 
 **link:** https://github.com/sumyak/car-rental-system
 
-### Day 101: Apr 22 , 2020
+### Day 101: Apr 24 , 2020
 
 **Today's Progress**: Did some SERVLET program , made some windows(front end)  of my car rental system also did some backend for another networking project.
 
 **link:**: https://github.com/sumyak/NetworkAssignment/tree/sumyak/change%20ip
 
 **link:** https://github.com/sumyak/car-rental-system
+
+### Day 102: Apr 25 , 2020
+
+**Today's Progress**:did some prims and krushkal implementation using c and studied about github actions tried to make some workflow actions.
 
 
 
