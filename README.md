@@ -357,6 +357,14 @@ fix it really soon)
 
 **link:** https://github.com/sumyak/Learning_Actions
 
+### Day 103: Apr 26 , 2020
+
+**Today's Progress**:completed with the front-end for my car rental system also started with making a beginner guide for building profiles in Apache Maven.
+
+**link:** https://github.com/sumyak/car-rental-system
+
+**link:** https://github.com/sumyak/Apache-Maven/tree/master/Build%20Profile
+
 
 
 
