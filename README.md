@@ -365,6 +365,12 @@ fix it really soon)
 
 **link:** https://github.com/sumyak/Apache-Maven/tree/master/Build%20Profile
 
+### Day 104: Apr 27 , 2020
+
+**Today's Progress**:completed with the a beginner guide for building profiles in Apache Maven and also did some questions on HackerEarth.
+
+**link:** https://github.com/sumyak/Apache-Maven/tree/master/Build%20Profile
+
 
 
 
