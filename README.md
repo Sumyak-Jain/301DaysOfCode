@@ -393,6 +393,12 @@ fix it really soon)
 
 **link:** https://github.com/sumyak/car-rental-system
 
+### Day 109  May 2 , 2020
+
+**Today's Progress**: almost completed with my car rental system , participated in google code jam round 1c and also completed with a course on maven on udemy
+
+**link:** https://www.udemy.com/certificate/UC-54411d2b-7eb7-4bb8-9dfa-e2d1fd4ae81b/
+
 
 
 
