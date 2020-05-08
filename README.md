@@ -429,6 +429,14 @@ fix it really soon)
 
 **link:** https://github.com/sumyak/IPAM
 
+### Day 115   May 8 , 2020
+
+**Today's Progress**:started revising python 
+
+**link:** https://github.com/sumyak/Python-for-beginners
+
+**link:** https://github.com/sumyak/Python
+
 
 
 
