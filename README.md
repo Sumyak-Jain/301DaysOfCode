@@ -450,6 +450,13 @@ fix it really soon)
 **link:**  https://github.com/sumyak/car-rental-system
 
 
+### Day 118   May 11 , 2020
+
+**Today's Progress**: still revising python
+
+**link:**  https://github.com/sumyak/Python-for-beginners
+
+
 
 
 
