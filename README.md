@@ -456,6 +456,11 @@ fix it really soon)
 
 **link:**  https://github.com/sumyak/Python-for-beginners
 
+### Day 119   May 12 , 2020
+
+**Today's Progress**: still revising python
+
+**link:**  https://github.com/sumyak/Python-for-beginners
 
 
 
