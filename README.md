@@ -474,6 +474,12 @@ fix it really soon)
 
 **link:**  https://github.com/sumyak/Python-for-beginners
 
+### Day 122   May 15 , 2020
+
+**Today's Progress**:done with revising python ,doing some questions on hackerrank and soon going to start with projects on python,devops
+
+**link:**  https://github.com/sumyak/Python-for-beginners
+
 
 
 
