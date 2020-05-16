@@ -480,6 +480,12 @@ fix it really soon)
 
 **link:**  https://github.com/sumyak/Python-for-beginners
 
+### Day 123   May 16 , 2020
+
+**Today's Progress**:got my 4th star in python on Hackerrank and soon going to start with projects on python,devops
+
+**link:**  https://www.hackerrank.com/Sumyak?hr_r=1
+
 
 
 
