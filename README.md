@@ -486,6 +486,10 @@ fix it really soon)
 
 **link:**  https://www.hackerrank.com/Sumyak?hr_r=1
 
+### Day 124   May 17 , 2020
+
+**Today's Progress**: participated in google kick start round c
+
 
 
 
