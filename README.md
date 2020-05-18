@@ -490,7 +490,7 @@ fix it really soon)
 
 **Today's Progress**: participated in google kick start round c
 
-### Day 125   May 17 , 2020
+### Day 125   May 18 , 2020
 
 **Today's Progress**:started with Pandas and soon going to start with a project on COVID-19
 
