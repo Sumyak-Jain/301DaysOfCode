@@ -494,13 +494,13 @@ fix it really soon)
 
 **Today's Progress**:started with Pandas and soon going to start with a project on COVID-19
 
-**link: ** https://github.com/sumyak/Pandas
+**link:** https://github.com/sumyak/Pandas
 
 ### Day 126-127   May 19-20 , 2020
 
 **Today's Progress**:completed with pandas and going to start a project on covid-19 using pandas and matplotlib
 
-**link: ** https://github.com/sumyak/Pandas
+**link:** https://github.com/sumyak/Pandas
 
 
 
