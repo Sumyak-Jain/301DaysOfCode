@@ -496,6 +496,12 @@ fix it really soon)
 
 **link: ** https://github.com/sumyak/Pandas
 
+### Day 126-127   May 19-20 , 2020
+
+**Today's Progress**:completed with pandas and going to start a project on covid-19 using pandas and matplotlib
+
+**link: ** https://github.com/sumyak/Pandas
+
 
 
 
