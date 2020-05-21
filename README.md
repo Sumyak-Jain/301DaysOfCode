@@ -504,7 +504,7 @@ fix it really soon)
 
 ### Day 128   May 21 , 2020
 
-**Today's Progress**:done a task for getting  latest number of confirmed cases, deaths, recovered and active cases of COVID-19 Country wise total and specific.
+**Today's Progress**:done a task for getting  latest number of confirmed cases, deaths, recovered and active cases of COVID-19 Country wise total and specific and represent them using bar graph
 
 **link:** https://github.com/sumyak/COVID-19/tree/master/task%201
 
