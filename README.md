@@ -508,6 +508,12 @@ fix it really soon)
 
 **link:** https://github.com/sumyak/COVID-19/tree/master/task%201
 
+### Day 129   May 22 , 2020
+
+**Today's Progress**:working on another task to Get the total no. of confirmed cases of a selected country Day wise and then plot the data to know the change in past days
+
+**link:** https://github.com/sumyak/COVID-19/tree/master/task%202
+
 
 
 
