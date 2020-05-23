@@ -514,6 +514,12 @@ fix it really soon)
 
 **link:** https://github.com/sumyak/COVID-19/tree/master/task%202
 
+### Day 130   May 23 , 2020
+
+**Today's Progress**: attended AWS online confrence and done the task for Getting the total no. of confirmed ,death ,recovered cases of a selected country Day wise and then plot the data to know the change in past days
+
+**link:** https://github.com/sumyak/COVID-19
+
 
 
 
