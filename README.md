@@ -516,7 +516,7 @@ fix it really soon)
 
 ### Day 130   May 23 , 2020
 
-**Today's Progress**: attended AWS online confrence and done the task for Getting the total no. of confirmed ,death ,recovered cases of a selected country Day wise and then plot the data to know the change in past days
+**Today's Progress**: attended AWS online conference and done the task for Getting the total no. of confirmed ,death ,recovered cases of a selected country Day wise and then plot the data to know the change in past days
 
 **link:** https://github.com/sumyak/COVID-19
 
