@@ -520,6 +520,12 @@ fix it really soon)
 
 **link:** https://github.com/sumyak/COVID-19
 
+### Day 131   May 24 , 2020
+
+**Today's Progress**:done another task getting total no. of death cases from user and filter the countries which have greater then no. of deaths given by user on latest date and ,Then plot that countries confirmed,deaths,recovered and active cases
+
+**link:** https://github.com/sumyak/COVID-19
+
 
 
 
