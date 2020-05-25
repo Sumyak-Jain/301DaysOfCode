@@ -526,6 +526,12 @@ fix it really soon)
 
 **link:** https://github.com/sumyak/COVID-19
 
+### Day 132   May 25 , 2020
+
+**Today's Progress**: working on another task of Interactive and Animated Choropleth Map of coronavirus spread with Plotly
+
+**link:** https://github.com/sumyak/COVID-19/tree/master/task%206
+
 
 
 
