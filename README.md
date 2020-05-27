@@ -538,6 +538,12 @@ fix it really soon)
 
 **link:** https://github.com/sumyak/COVID-19/tree/master/task%206
 
+### Day 134   May 27 , 2020
+
+**Today's Progress**: done another task of Taking the name of an Indian state from user and display its current confirmed,death and cured cases and then plot using pie chart 
+
+**link:** https://github.com/sumyak/COVID-19/tree/master/task%207
+
 
 
 
