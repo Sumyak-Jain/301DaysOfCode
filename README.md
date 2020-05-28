@@ -544,6 +544,11 @@ fix it really soon)
 
 **link:**  https://github.com/sumyak/COVID-19/tree/master/task%207
 
+### Day 135   May 28 , 2020
+
+**Today's Progress**: done another task of Taking a Indian state from user also, a start and end date to show a plot of total number of samples for testing coronavirus in that range of dates apart from this also plot how many were positive and how many were negative from that samples
+
+**link:**  https://github.com/sumyak/COVID-19/tree/master/task%208
 
 
 
