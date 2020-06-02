@@ -568,6 +568,12 @@ fix it really soon)
 
 **link:** https://github.com/sumyak/Jenkins
 
+### Day 140   jun 2 , 2020
+
+**Today's Progress**:build some basic jobs in doing further in it
+
+
+
 
 
 
