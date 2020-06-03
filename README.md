@@ -573,6 +573,11 @@ fix it really soon)
 **Today's Progress**:build some basic jobs in doing further in it
 
 
+### Day 141   jun 3 , 2020
+
+**Today's Progress**:stuck in jenkins launch its not launching
+
+
 
 
 
