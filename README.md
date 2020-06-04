@@ -577,6 +577,10 @@ fix it really soon)
 
 **Today's Progress**:stuck in jenkins launch its not launching
 
+### Day 142   jun 4 , 2020
+
+**Today's Progress**:finally fixed my jenkins problem i was stuck because of some port no. issue finally solved.
+
 
 
 
