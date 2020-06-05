@@ -581,6 +581,10 @@ fix it really soon)
 
 **Today's Progress**:finally fixed my jenkins problem i was stuck because of some port no. issue finally solved.
 
+### Day 143   jun 5 , 2020
+
+**Today's Progress**:working on take code from github repos and then build using jenkins automatically.
+
 
 
 
