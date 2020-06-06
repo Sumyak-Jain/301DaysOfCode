@@ -585,6 +585,10 @@ fix it really soon)
 
 **Today's Progress**:working on take code from github repos and then build using jenkins automatically.
 
+### Day 144   jun 6 , 2020
+
+**Today's Progress**:working on some github integration using jenkins.
+
 
 
 
