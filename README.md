@@ -593,6 +593,9 @@ fix it really soon)
 
 **Today's Progress**:done some MAVEN and GITHUB integration using jenkins.
 
+### Day 146   jun 8 , 2020
+
+**Today's Progress**:learnt about distributed build and made a basic pipeline in jenkins and also visualized it
 
 
 
