@@ -589,6 +589,10 @@ fix it really soon)
 
 **Today's Progress**:working on some github integration using jenkins.
 
+### Day 145   jun 7 , 2020
+
+**Today's Progress**:done some MAVEN and GITHUB integration using jenkins.
+
 
 
 
