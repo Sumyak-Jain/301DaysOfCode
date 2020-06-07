@@ -595,7 +595,9 @@ fix it really soon)
 
 ### Day 146   jun 8 , 2020
 
-**Today's Progress**:learnt about distributed build and made a basic pipeline in jenkins and also visualized it
+**Today's Progress**:learnt about distributed build and made a basic pipeline in jenkins and also visualized it apart from this made a pipeline using groovy script (basic)
+
+**link:** https://github.com/sumyak/Jenkins/blob/master/basic_script.groovy 
 
 
 
