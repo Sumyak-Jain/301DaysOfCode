@@ -597,7 +597,13 @@ fix it really soon)
 
 **Today's Progress**:learnt about distributed build and made a basic pipeline in jenkins and also visualized it apart from this made a pipeline using groovy script (basic)
 
-**link:** https://github.com/sumyak/Jenkins/blob/master/basic_script.groovy 
+**link:** https://github.com/sumyak/Jenkins/blob/master/basic_script.groovy
+
+### Day 147   jun 9 , 2020
+
+**Today's Progress**:done how to take repos from github and perform different batch files from it also cleared hackerrank java(basic) assessment and going to start with a project on jenkins
+
+**link:** https://www.hackerrank.com/certificates/454b89d79f22
 
 
 
