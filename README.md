@@ -605,6 +605,12 @@ fix it really soon)
 
 **link:** https://www.hackerrank.com/certificates/454b89d79f22
 
+### Day 148   jun 10 , 2020
+
+**Today's Progress**:started working on a implementation of commit, build, test, stage, deploy and monitor.
+
+**link:** a implementation of commit, build, test, stage, deploy and monitor
+
 
 
 
