@@ -611,6 +611,12 @@ fix it really soon)
 
 **link:** a implementation of commit, build, test, stage, deploy and monitor
 
+### Day 149   jun 11 , 2020
+
+**Today's Progress**: working on a implementation of commit, build, test, stage, deploy and monitor project and cleared python assessment  on HackerRank
+
+**link:** https://www.hackerrank.com/certificates/b97608d3e21b
+
 
 
 
