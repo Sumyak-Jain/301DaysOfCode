@@ -621,6 +621,10 @@ fix it really soon)
 
 **Today's Progress**: working on a implementation of commit, build, test, stage, deploy and monitor
 
+### Day 151   jun 13 , 2020
+
+**Today's Progress**: working on a implementation of commit, build, test, stage, deploy and monitor
+
 
 
 
