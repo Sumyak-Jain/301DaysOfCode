@@ -625,6 +625,12 @@ fix it really soon)
 
 **Today's Progress**: working on a implementation of commit, build, test, stage, deploy and monitor
 
+### Day 152-153   jun 14-15 , 2020
+
+**Today's Progress**: done with the pom.xml and code part for CI-CD pipeline writing jenkinsfile Script in groovy. 
+
+**link:** https://github.com/sumyak/CI-CD-Pipeline
+
 
 
 
