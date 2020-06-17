@@ -637,6 +637,12 @@ fix it really soon)
 
 **link:** https://github.com/sumyak/CI-CD-Pipeline
 
+### Day 155   jun 17 , 2020
+
+**Today's Progress**:doing some documentation for my CI-CD pipeline
+
+**link:** https://github.com/sumyak/CI-CD-Pipeline
+
 
 
 
