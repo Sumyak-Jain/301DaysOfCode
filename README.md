@@ -656,6 +656,14 @@ fix it really soon)
 **link:** https://github.com/sumyak/CI-CD-Pipeline
 
 
+### Day 158   jun 20 , 2020
+
+**Today's Progress** started with some course on data science
+
+
+
+
+
 
 
 
