@@ -660,6 +660,10 @@ fix it really soon)
 
 **Today's Progress** started with some course on data science
 
+### Day 159   jun 21 , 2020
+
+**Today's Progress** did some research on big data , hadoop , deep learning and machine learning.
+
 
 
 
