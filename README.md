@@ -664,6 +664,10 @@ fix it really soon)
 
 **Today's Progress** did some research on big data , hadoop , deep learning and machine learning.
 
+### Day 160   jun 22 , 2020
+
+**Today's Progress** did some visual recognization using IBM watson.
+
 
 
 
