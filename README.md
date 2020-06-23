@@ -668,6 +668,10 @@ fix it really soon)
 
 **Today's Progress** did some visual recognization using IBM watson.
 
+### Day 161   jun 23 , 2020
+
+**Today's Progress** learned about different languages and framework used for different parts of data science.
+
 
 
 
