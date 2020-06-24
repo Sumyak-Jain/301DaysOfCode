@@ -672,6 +672,9 @@ fix it really soon)
 
 **Today's Progress** learned about different languages and framework used for different parts of data science.
 
+### Day 162   jun 24 , 2020
+
+**Today's Progress** learning about different tools and technique used for data science.
 
 
 
