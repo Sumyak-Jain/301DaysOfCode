@@ -676,6 +676,9 @@ fix it really soon)
 
 **Today's Progress** learning about different tools and technique used for data science.
 
+### Day 163   jun 25 , 2020
+
+**Today's Progress** learnt and done things about SPSS modeler using IBM Watson, also done some hackerrank problems.
 
 
 
