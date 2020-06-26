@@ -680,8 +680,11 @@ fix it really soon)
 
 **Today's Progress** learnt and done things about SPSS modeler using IBM Watson, also done some hackerrank problems.
 
+### Day 164   jun 26 , 2020
 
+**Today's Progress** got my 4th star in 30 days of code on hackerrank and also completed with  tools for data science.
 
+**link** :https://www.hackerrank.com/Sumyak
 
 
 
