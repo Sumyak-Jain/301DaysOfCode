@@ -686,6 +686,10 @@ fix it really soon)
 
 **link** :https://www.hackerrank.com/Sumyak
 
+### Day 165   jun 27 , 2020
+
+**Today's Progress** working on  different data science methodologies
+
 
 
 
