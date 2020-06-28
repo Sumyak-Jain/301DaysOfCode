@@ -690,6 +690,10 @@ fix it really soon)
 
 **Today's Progress** working on  different data science methodologies
 
+### Day 166   jun 28 , 2020
+
+**Today's Progress**  still working on  different data science methodologies
+
 
 
 
