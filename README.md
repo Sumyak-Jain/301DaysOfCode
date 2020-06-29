@@ -694,6 +694,10 @@ fix it really soon)
 
 **Today's Progress**  still working on  different data science methodologies
 
+### Day 167   jun 29 , 2020
+
+**Today's Progress**  completed with  data science methodologies and started with python for data science
+
 
 
 
