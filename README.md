@@ -698,6 +698,9 @@ fix it really soon)
 
 **Today's Progress**  completed with  data science methodologies and started with python for data science
 
+### Day 168-169   jun 30 - jul 1 , 2020
+
+**Today's Progress** deployed some github pages and done with python for data scicene also started working on speech to text, a translator type of thing using API
 
 
 
