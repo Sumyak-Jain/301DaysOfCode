@@ -702,6 +702,9 @@ fix it really soon)
 
 **Today's Progress** deployed some github pages and done with python for data scicene also started working on speech to text, a translator type of thing using API
 
+### Day 170   jul 2 , 2020
+
+**Today's Progress**  working on speech to text and  a translator type of thing using API
 
 
 
