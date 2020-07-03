@@ -706,6 +706,12 @@ fix it really soon)
 
 **Today's Progress**  working on speech to text and  a translator type of thing using API
 
+### Day 171   jul 3 , 2020
+
+**Today's Progress**  done with Speech To Text  tool and started with Sql and mysql for data science
+
+**link:** https://github.com/sumyak/Speech-to-Text
+
 
 
 
