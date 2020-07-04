@@ -712,6 +712,10 @@ fix it really soon)
 
 **link:** https://github.com/sumyak/Speech-to-Text
 
+### Day 172   jul 4 , 2020
+
+**Today's Progress** working on Databases and SQL for Data Science
+
 
 
 
