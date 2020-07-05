@@ -716,6 +716,10 @@ fix it really soon)
 
 **Today's Progress** working on Databases and SQL for Data Science
 
+### Day 173   jul 5 , 2020
+
+**Today's Progress** done with  Databases and SQL for Data Science and started with data analytics using python i.e different algorithms,technique and models for data analysis
+
 
 
 
