@@ -720,6 +720,10 @@ fix it really soon)
 
 **Today's Progress** done with  Databases and SQL for Data Science and started with data analytics using python i.e different algorithms,technique and models for data analysis
 
+### Day 174   jul 6 , 2020
+
+**Today's Progress** working on data analytics using python i.e different algorithms,technique and models for data analysis
+
 
 
 
