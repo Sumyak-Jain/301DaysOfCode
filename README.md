@@ -724,6 +724,10 @@ fix it really soon)
 
 **Today's Progress** working on data analytics using python i.e different algorithms,technique and models for data analysis
 
+### Day 175   jul 7 , 2020
+
+**Today's Progress** finally! my letter came of my internship which i have done from may 2020 to june 2020  and still working on different algorithms,technique and models for data analysis
+
 
 
 
