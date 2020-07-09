@@ -736,7 +736,7 @@ fix it really soon)
 
 **Today's Progress** done some data analytics
 
-**link:* https://github.com/sumyak/Data-Analysis
+**link:** https://github.com/sumyak/Data-Analysis
 
 
 
