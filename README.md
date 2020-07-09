@@ -732,6 +732,10 @@ fix it really soon)
 
 **Today's Progress** working on Model Development in data science
 
+### Day 177   jul 9 , 2020
+
+**Today's Progress** done some data analytics
+
 
 
 
