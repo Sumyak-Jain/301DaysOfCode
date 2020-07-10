@@ -738,6 +738,10 @@ fix it really soon)
 
 **link:** https://github.com/sumyak/Data-Analysis
 
+### Day 178   jul 10 , 2020
+
+**Today's Progress** doing Model Evaluation and Refinement
+
 
 
 
