@@ -742,9 +742,11 @@ fix it really soon)
 
 **Today's Progress** doing Model Evaluation and Refinement
 
-### Day 179   jul 10 , 2020
+### Day 179   jul 11 , 2020
 
 **Today's Progress** done Model Evaluation and Refinement
+
+**link:** https://github.com/sumyak/Data-Analysis/tree/master/Model%20Evaluation%20and%20Refinement/Training%20and%20Testing
 
 
 
