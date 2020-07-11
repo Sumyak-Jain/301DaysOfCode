@@ -742,6 +742,11 @@ fix it really soon)
 
 **Today's Progress** doing Model Evaluation and Refinement
 
+### Day 179   jul 10 , 2020
+
+**Today's Progress** done Model Evaluation and Refinement
+
+
 
 
 
