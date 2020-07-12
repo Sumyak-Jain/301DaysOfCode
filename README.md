@@ -750,7 +750,7 @@ fix it really soon)
 
 ### Day 180   jul 12 , 2020
 
-**Today's Progress** 
+**Today's Progress** Done Data Wrangling, Exploratory Data Analysis, Model Development, and Evaluation for House-Sales-in-King-County-USA
 
 **link:** 
 
