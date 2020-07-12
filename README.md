@@ -752,7 +752,7 @@ fix it really soon)
 
 **Today's Progress** Done Data Wrangling, Exploratory Data Analysis, Model Development, and Evaluation for House-Sales-in-King-County-USA
 
-**link:** 
+**link:** https://github.com/sumyak/House-Sales-in-King-County-USA
 
 
 
