@@ -748,6 +748,11 @@ fix it really soon)
 
 **link:** https://github.com/sumyak/Data-Analysis/tree/master/Model%20Evaluation%20and%20Refinement/Training%20and%20Testing
 
+### Day 180   jul 12 , 2020
+
+**Today's Progress** 
+
+**link:** 
 
 
 
