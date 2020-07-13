@@ -754,6 +754,10 @@ fix it really soon)
 
 **link:** https://github.com/sumyak/House-Sales-in-King-County-USA
 
+### Day 181   jul 13 , 2020
+
+**Today's Progress** Doing data visualization and done some questions of hackerrank
+
 
 
 
