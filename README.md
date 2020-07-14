@@ -758,6 +758,10 @@ fix it really soon)
 
 **Today's Progress** Doing data visualization and done some questions of hackerrank
 
+### Day 182   jul 14 , 2020
+
+**Today's Progress** Done with data visualization and done some questions of hackerrank
+
 
 
 
