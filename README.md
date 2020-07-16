@@ -768,6 +768,10 @@ fix it really soon)
 
 **Link:** https://www.hackerrank.com/Sumyak
 
+### Day 184   jul 16 , 2020
+
+**Today's Progress** started with machine learning using python
+
 
 
 
