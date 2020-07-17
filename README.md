@@ -772,6 +772,12 @@ fix it really soon)
 
 **Today's Progress** started with machine learning using python
 
+### Day 185   jul 17 , 2020
+
+**Today's Progress** Doing regression in machine learning
+
+**Link:** https://github.com/sumyak/ML-Algos-and-Techniques
+
 
 
 
