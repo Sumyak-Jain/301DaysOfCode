@@ -778,6 +778,11 @@ fix it really soon)
 
 **Link:** https://github.com/sumyak/ML-Algos-and-Techniques
 
+### Day 186   jul 18 , 2020
+
+**Today's Progress** continued with regression in machine learning
+
+**Link:** https://github.com/sumyak/ML-Algos-and-Techniques
 
 
 
