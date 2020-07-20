@@ -795,7 +795,7 @@ fix it really soon)
 
 **Today's Progress** done with K-Nearest Neighbors algorithm
 
-**Link:** https://github.com/sumyak/ML-Algos-and-Techniques
+**Link:** https://github.com/sumyak/ML-Algos-and-Techniques/tree/master/Classification/K-Nearest%20Neighbors
 
 
         
