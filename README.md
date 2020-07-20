@@ -791,6 +791,12 @@ fix it really soon)
 
 **Link:** https://github.com/sumyak/ML-Algos-and-Techniques
 
+### Day 188   jul 20 , 2020
+
+**Today's Progress** done with K-Nearest Neighbors algorithm
+
+**Link:** https://github.com/sumyak/ML-Algos-and-Techniques
+
 
         
         
