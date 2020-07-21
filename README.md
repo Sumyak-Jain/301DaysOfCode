@@ -797,6 +797,12 @@ fix it really soon)
 
 **Link:** https://github.com/sumyak/ML-Algos-and-Techniques/tree/master/Classification/K-Nearest%20Neighbors
 
+### Day 189   jul 21 , 2020
+
+**Today's Progress** done with Decision Trees algorithm
+
+**Link:** https://github.com/sumyak/ML-Algos-and-Techniques/tree/master/Classification/K-Nearest%20Neighbors
+
 
         
         
