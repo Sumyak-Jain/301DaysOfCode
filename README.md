@@ -807,7 +807,7 @@ fix it really soon)
 
 **Today's Progress** done with logistic regression algorithm
 
-**Link:** https://github.com/sumyak/ML-Algos-and-Techniques/tree/master/Classification/Decision%20Trees
+**Link:** https://github.com/sumyak/ML-Algos-and-Techniques/tree/master/Classification/Logistic%20Regression
 
 
         
