@@ -803,6 +803,12 @@ fix it really soon)
 
 **Link:** https://github.com/sumyak/ML-Algos-and-Techniques/tree/master/Classification/Decision%20Trees
 
+### Day 190   jul 22 , 2020
+
+**Today's Progress** done with logistic regression algorithm
+
+**Link:** https://github.com/sumyak/ML-Algos-and-Techniques/tree/master/Classification/Decision%20Trees
+
 
         
         
