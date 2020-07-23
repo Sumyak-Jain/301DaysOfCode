@@ -813,7 +813,7 @@ fix it really soon)
 
 **Today's Progress** done support vector machines algorithm for classification and k means clustering algorithm for clustring
 
-**Link:** https://github.com/sumyak/ML-Algos-and-Techniques/tree/master/Classification/Logistic%20Regression
+**Link:** https://github.com/sumyak/ML-Algos-and-Techniques
 
 
         
