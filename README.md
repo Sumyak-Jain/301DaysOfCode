@@ -811,9 +811,16 @@ fix it really soon)
 
 ### Day 191   jul 23 , 2020
 
-**Today's Progress** done support vector machines algorithm for classification and k means clustering algorithm for clustring
+**Today's Progress** done support vector machines algorithm for classification and k means clustering algorithm for clustering
 
 **Link:** https://github.com/sumyak/ML-Algos-and-Techniques
+
+### Day 192   jul 24 , 2020
+
+**Today's Progress** doing clustering algorithm for M.L
+
+**Link:** https://github.com/sumyak/ML-Algos-and-Techniques
+
 
 
         
