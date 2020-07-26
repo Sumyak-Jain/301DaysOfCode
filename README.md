@@ -827,6 +827,12 @@ fix it really soon)
 
 **Link:** https://github.com/sumyak/ML-Algos-and-Techniques
 
+### Day 194   jul 26 , 2020
+
+**Today's Progress** started with recomendation system 
+
+**Link:** https://github.com/sumyak/ML-Algos-and-Techniques
+
 
 
         
