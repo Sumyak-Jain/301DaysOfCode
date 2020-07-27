@@ -833,6 +833,12 @@ fix it really soon)
 
 **Link:** https://github.com/sumyak/ML-Algos-and-Techniques
 
+### Day 195   jul 27 , 2020
+
+**Today's Progress** done content based filtering for recomendation system
+
+**Link:** https://github.com/sumyak/ML-Algos-and-Techniques
+
 
 
         
