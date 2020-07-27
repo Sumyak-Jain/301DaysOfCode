@@ -829,15 +829,15 @@ fix it really soon)
 
 ### Day 194   jul 26 , 2020
 
-**Today's Progress** started with recomendation system 
+**Today's Progress** started with Recommendation system 
 
 **Link:** https://github.com/sumyak/ML-Algos-and-Techniques
 
 ### Day 195   jul 27 , 2020
 
-**Today's Progress** done content based filtering for recomendation system
+**Today's Progress** done content based filtering for Recommendation  system
 
-**Link:** https://github.com/sumyak/ML-Algos-and-Techniques
+**Link:** https://github.com/sumyak/ML-Algos-and-Techniques/tree/master/Content-based%20Recommendation%20Engines/folder
 
 
 
