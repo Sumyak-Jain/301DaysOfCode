@@ -845,6 +845,12 @@ fix it really soon)
 
 **Link:** https://github.com/sumyak/ML-Algos-and-Techniques/tree/master/Content-based%20Recommendation%20Engines/Collaborative%20filtering
 
+### Day 197   jul 29 , 2020
+
+**Today's Progress** done with algorithm for M.L
+
+**Link:** https://github.com/sumyak/ML-Algos-and-Techniques
+
 
 
         
