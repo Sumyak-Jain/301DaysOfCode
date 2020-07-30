@@ -851,6 +851,10 @@ fix it really soon)
 
 **Link:** https://github.com/sumyak/ML-Algos-and-Techniques
 
+### Day 198   jul 30 , 2020
+
+**Today's Progress** working on foursquare API for a project
+
 
 
         
