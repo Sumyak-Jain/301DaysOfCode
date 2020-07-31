@@ -859,7 +859,7 @@ fix it really soon)
 
 **Today's Progress** done working on foursquare API for a project
 
-**Link** 
+**Link** https://github.com/sumyak/IBM-Capstone-Project
 
 
 
