@@ -861,6 +861,12 @@ fix it really soon)
 
 **Link** https://github.com/sumyak/IBM-Capstone-Project
 
+### Day 200   aug 1 , 2020
+
+**Today's Progress** working on segmentation and clustering 
+
+**Link** https://github.com/sumyak/IBM-Capstone-Project
+
 
 
         
