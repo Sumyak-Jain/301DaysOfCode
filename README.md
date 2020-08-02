@@ -867,6 +867,11 @@ fix it really soon)
 
 **Link** https://github.com/sumyak/IBM-Capstone-Project
 
+### Day 201   aug 2 , 2020
+
+**Today's Progress** working on capstone project
+
+**Link** https://github.com/sumyak/IBM-Capstone-Project
 
 
         
