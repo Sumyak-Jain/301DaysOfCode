@@ -893,6 +893,10 @@ fix it really soon)
 
 **Today's Progress** working on capstone project
 
+## Day 206   aug 7 , 2020
+
+**Today's Progress** working on capstone project
+
 
 
 
