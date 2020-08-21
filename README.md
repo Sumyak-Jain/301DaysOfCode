@@ -950,6 +950,10 @@ fix it really soon)
 
 **Today's Progress** stuck at a point  on capstone project
 
+### Day 220   aug 21 , 2020
+
+**Today's Progress** stuck at a point  on capstone project trying to make it work
+
 
 
         
