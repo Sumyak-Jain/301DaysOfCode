@@ -954,9 +954,13 @@ fix it really soon)
 
 **Today's Progress** stuck at a point  on capstone project trying to make it  work
 
-### Day 221   aug 19 , 2020
+### Day 221   aug 22 , 2020
 
 **Today's Progress** working on capstone project
+
+### Day 222   aug 23 , 2020
+
+**Today's Progress** working on capstone project and also attended a contest on hackerrank
 
 
 
