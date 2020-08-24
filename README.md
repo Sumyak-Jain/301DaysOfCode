@@ -962,6 +962,11 @@ fix it really soon)
 
 **Today's Progress** working on capstone project and also attended a contest on hackerrank
 
+### Day 223   aug 24 , 2020
+
+**Today's Progress** working on integrating sonarqube on jenkins
+
+
 
 
 
