@@ -966,6 +966,10 @@ fix it really soon)
 
 **Today's Progress** working on integrating sonarqube on jenkins
 
+### Day 224   aug 25 , 2020
+
+**Today's Progress** working on integrating sonarqube on jenkins and also practiced hosting a website using AWS lightsail
+
 
 
 
