@@ -970,6 +970,10 @@ fix it really soon)
 
 **Today's Progress** working on integrating sonarqube on jenkins and also practiced hosting a website using AWS lightsail
 
+### Day 225   aug 26 , 2020
+
+**Today's Progress** made complete synopsis report for minor 1
+
 
 
 
