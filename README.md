@@ -974,6 +974,10 @@ fix it really soon)
 
 **Today's Progress** made complete synopsis report for minor 1
 
+### Day 226   aug 27 , 2020
+
+**Today's Progress** working on integrating sonarqube on jenkins
+
 
 
 
