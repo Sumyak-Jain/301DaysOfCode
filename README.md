@@ -987,6 +987,10 @@ fix it really soon)
 
 **Today's Progress** working on integrating sonarqube on jenkins
 
+### Day 229   aug 30 , 2020
+
+**Today's Progress** done integrating sonarqube on jenkins
+
 
 
 
