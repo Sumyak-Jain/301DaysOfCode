@@ -991,6 +991,10 @@ fix it really soon)
 
 **Today's Progress** done integrating sonarqube on jenkins
 
+### Day 230   aug 31 , 2020
+
+**Today's Progress** doing some leetcode problems
+
 
 
 
