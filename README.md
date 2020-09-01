@@ -995,6 +995,10 @@ fix it really soon)
 
 **Today's Progress** doing some leetcode problems
 
+### Day 231   sep 01 , 2020
+
+**Today's Progress** practiced making AWS EC2 instance using Terraform and doing some D.S problems on HackerEarth
+
 
 
 
