@@ -1000,6 +1000,11 @@ fix it really soon)
 **Today's Progress** practiced making AWS EC2 instance using Terraform and doing some D.S problems on HackerEarth
 
 
+### Day 232   sep 02 , 2020
+
+**Today's Progress** doing some hackerearth  problems
+
+
 
 
 
