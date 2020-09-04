@@ -1008,6 +1008,10 @@ fix it really soon)
 
 **Today's Progress** doing some hackerearth  problems
 
+### Day 234   sep 04 , 2020
+
+**Today's Progress** doing some hackerearth  problems and started documenting sonarqube integration in jenkins
+
 
 
 
