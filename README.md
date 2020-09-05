@@ -1013,6 +1013,11 @@ fix it really soon)
 **Today's Progress** doing some hackerearth  problems and started documenting sonarqube integration in jenkins
 
 
+### Day 235   sep 04 , 2020
+
+**Today's Progress** given an interview for my next internship and got selected!
+
+
 
 
 
