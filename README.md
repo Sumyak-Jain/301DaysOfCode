@@ -1017,6 +1017,12 @@ fix it really soon)
 
 **Today's Progress** given an interview for my next internship and got selected!
 
+### Day 236   sep 06 , 2020
+
+**Today's Progress** working on some computer graphics problems using openGL
+
+**link:** https://github.com/sumyak/OpenGL
+
 
 
 
