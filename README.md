@@ -1035,6 +1035,10 @@ fix it really soon)
 
 **link:** https://github.com/sumyak/OpenGL
 
+### Day 239   sep 10 , 2020
+
+**Today's Progress** working on presentation for minor 1 
+
 
 
 
