@@ -1043,6 +1043,10 @@ fix it really soon)
 
 **Today's Progress** working on presentation for minor 1 and done some questions on hackerearth
 
+### Day 241   sep 12 , 2020
+
+**Today's Progress** working on presentation for minor 1 and done some questions on hackerearth
+
 
 
 
