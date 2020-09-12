@@ -1047,6 +1047,10 @@ fix it really soon)
 
 **Today's Progress** working on presentation for minor 1 and done some questions on hackerearth
 
+### Day 242   sep 13 , 2020
+
+**Today's Progress** completed with the presentation today and working on a problem statemnt to solve
+
 
 
 
