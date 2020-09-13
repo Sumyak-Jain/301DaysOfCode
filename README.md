@@ -1056,6 +1056,8 @@ fix it really soon)
 
 **Today's Progress** working on Counterfeit Coin Riddle problem with different different algorithms
 
+**link:** https://github.com/sumyak/Problem-Solving-and-30-Days-of-Code/tree/master/Counterfeit%20Coin%20Riddle
+
 
 
 
