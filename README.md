@@ -1052,6 +1052,11 @@ fix it really soon)
 **Today's Progress** completed with the presentation today and working on a problem statemnt to solve .
 
 
+### Day 243   sep 14 , 2020
+
+**Today's Progress** working on Counterfeit Coin Riddle problem with different different algorithms
+
+
 
 
 
