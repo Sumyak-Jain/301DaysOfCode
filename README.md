@@ -1049,7 +1049,7 @@ fix it really soon)
 
 ### Day 242   sep 13 , 2020
 
-**Today's Progress** completed with the presentation today and working on a problem statemnt to solve
+**Today's Progress** completed with the presentation today and working on a problem statemnt to solve .
 
 
 
