@@ -1058,6 +1058,12 @@ fix it really soon)
 
 **link:** https://github.com/sumyak/Problem-Solving-and-30-Days-of-Code/tree/master/Counterfeit%20Coin%20Riddle
 
+### Day 244   sep 15 , 2020
+
+**Today's Progress** working on Counterfeit Coin Riddle problem. algorithm 1 done now working on another algorithm
+
+**link:** https://github.com/sumyak/Problem-Solving-and-30-Days-of-Code/tree/master/Counterfeit%20Coin%20Riddle
+
 
 
 
