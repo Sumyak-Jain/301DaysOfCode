@@ -1070,6 +1070,12 @@ fix it really soon)
 
 **link:** https://github.com/sumyak/Problem-Solving-and-30-Days-of-Code/tree/master/Counterfeit%20Coin%20Riddle
 
+### Day 246   sep 17 , 2020
+
+**Today's Progress** doing some problems in computer graphics and also got some certificates from hackerrank based on my performance
+
+**link:**https://www.hackerrank.com/Sumyak_Jain
+
 
 
 
