@@ -1023,58 +1023,62 @@ fix it really soon)
 
 **link:** https://github.com/sumyak/OpenGL
 
-### Day 237   sep 08 , 2020
+### Day 237   sep 07 , 2020
 
 **Today's Progress** working on some computer graphics problems using openGL
 
 **link:** https://github.com/sumyak/OpenGL
 
-### Day 238   sep 09 , 2020
+### Day 238   sep 08 , 2020
 
 **Today's Progress** working on some computer graphics problems using openGL
 
 **link:** https://github.com/sumyak/OpenGL
 
-### Day 239   sep 10 , 2020
+### Day 239   sep 09 , 2020
 
 **Today's Progress** working on presentation for minor 1 
 
-### Day 240   sep 11 , 2020
+### Day 240   sep 10 , 2020
 
 **Today's Progress** working on presentation for minor 1 and done some questions on hackerearth
 
-### Day 241   sep 12 , 2020
+### Day 241   sep 11 , 2020
 
 **Today's Progress** working on presentation for minor 1 and done some questions on hackerearth
 
-### Day 242   sep 13 , 2020
+### Day 242   sep 12 , 2020
 
 **Today's Progress** completed with the presentation today and working on a problem statemnt to solve .
 
 
-### Day 243   sep 14 , 2020
+### Day 243   sep 13 , 2020
 
 **Today's Progress** working on Counterfeit Coin Riddle problem with different different algorithms
 
 **link:** https://github.com/sumyak/Problem-Solving-and-30-Days-of-Code/tree/master/Counterfeit%20Coin%20Riddle
 
-### Day 244   sep 15 , 2020
+### Day 244   sep 14 , 2020
 
 **Today's Progress** working on Counterfeit Coin Riddle problem. algorithm 1 done now working on another algorithm
 
 **link:** https://github.com/sumyak/Problem-Solving-and-30-Days-of-Code/tree/master/Counterfeit%20Coin%20Riddle
 
-### Day 245   sep 16 , 2020
+### Day 245   sep 15 , 2020
 
 **Today's Progress** working on Counterfeit Coin Riddle problem and doing research work for my minor 1 
 
 **link:** https://github.com/sumyak/Problem-Solving-and-30-Days-of-Code/tree/master/Counterfeit%20Coin%20Riddle
 
-### Day 246   sep 17 , 2020
+### Day 246   sep 16 , 2020
 
 **Today's Progress** doing some problems in computer graphics and also got some certificates from hackerrank based on my performance
 
 **link:**https://www.hackerrank.com/Sumyak_Jain
+
+### Day 246   sep 17 , 2020
+
+**Today's Progress** started working on my minor 1(LIFE SAVING ALARM) making the login window
 
 
 
