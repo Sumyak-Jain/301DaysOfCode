@@ -1076,7 +1076,7 @@ fix it really soon)
 
 **link:**https://www.hackerrank.com/Sumyak_Jain
 
-### Day 246   sep 17 , 2020
+### Day 247   sep 17 , 2020
 
 **Today's Progress** started working on my minor 1(LIFE SAVING ALARM) making the login window
 
