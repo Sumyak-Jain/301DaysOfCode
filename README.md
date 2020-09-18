@@ -1080,6 +1080,11 @@ fix it really soon)
 
 **Today's Progress** started working on my minor 1(LIFE SAVING ALARM) making the login window
 
+### Day 248   sep 18 , 2020
+
+**Today's Progress** started working on my minor 1(LIFE SAVING ALARM) 
+
+
 
 
 
