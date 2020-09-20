@@ -1082,7 +1082,11 @@ fix it really soon)
 
 ### Day 248   sep 18 , 2020
 
-**Today's Progress** started working on my minor 1(LIFE SAVING ALARM) 
+**Today's Progress**  working on my minor 1(LIFE SAVING ALARM) 
+
+### Day 249-250   sep 20-21 , 2020
+
+**Today's Progress** started working on database for my minor 1(LIFE SAVING ALARM)
 
 
 
