@@ -1088,6 +1088,10 @@ fix it really soon)
 
 **Today's Progress** started working on database for my minor 1(LIFE SAVING ALARM)
 
+### Day 251   sep 22 , 2020
+
+**Today's Progress**  working on database for my minor 1(LIFE SAVING ALARM) 
+
 
 
 
