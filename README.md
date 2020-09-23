@@ -1097,6 +1097,10 @@ fix it really soon)
 
 **Today's Progress**  working on database for my minor 1(LIFE SAVING ALARM) and also started working on my internship work at statusneo!
 
+### Day 253   sep 24 , 2020
+
+**Today's Progress**  working on database for my minor 1(LIFE SAVING ALARM) 
+
 
 
 
