@@ -1101,6 +1101,10 @@ fix it really soon)
 
 **Today's Progress**  working on database for my minor 1(LIFE SAVING ALARM) 
 
+### Day 254   sep 25 , 2020
+
+**Today's Progress**  done with login and register window and connected it to database (LIFE SAVING ALARM)
+
 
 
 
