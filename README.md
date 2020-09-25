@@ -1084,26 +1084,30 @@ fix it really soon)
 
 **Today's Progress**  working on my minor 1(LIFE SAVING ALARM) 
 
-### Day 249-250   sep 20-21 , 2020
+### Day 249-250   sep 19-20 , 2020
 
 **Today's Progress** started working on database for my minor 1(LIFE SAVING ALARM)
 
-### Day 251   sep 22 , 2020
+### Day 251   sep 21 , 2020
 
 **Today's Progress**  working on database for my minor 1(LIFE SAVING ALARM) 
 
 
-### Day 252   sep 23 , 2020
+### Day 252   sep 22 , 2020
 
 **Today's Progress**  working on database for my minor 1(LIFE SAVING ALARM) and also started working on my internship work at statusneo!
 
-### Day 253   sep 24 , 2020
+### Day 253   sep 23 , 2020
 
 **Today's Progress**  working on database for my minor 1(LIFE SAVING ALARM) 
 
-### Day 254   sep 25 , 2020
+### Day 254   sep 24 , 2020
 
 **Today's Progress**  done with login and register window and connected it to database (LIFE SAVING ALARM)
+
+### Day 255   sep 25 , 2020
+
+**Today's Progress**  started with hactoberfest pull requests
 
 
 
