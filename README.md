@@ -1114,6 +1114,11 @@ fix it really soon)
 **Today's Progress**  genrated some PR for hactoberfest 
 
 
+### Day 257   sep 27 , 2020
+
+**Today's Progress** started working on scala and hackerrank interview preptn kit
+
+
 
 
 
