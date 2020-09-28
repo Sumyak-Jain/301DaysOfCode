@@ -1118,6 +1118,10 @@ fix it really soon)
 
 **Today's Progress** started working on scala and hackerrank interview preptn kit
 
+### Day 258   sep 28 , 2020
+
+**Today's Progress** working on scala blog(1st)
+
 
 
 
