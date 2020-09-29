@@ -1122,6 +1122,10 @@ fix it really soon)
 
 **Today's Progress** working on scala blog(1st)
 
+### Day 259   sep 29 , 2020
+
+**Today's Progress** comlreted with the scala(1st blog) publish it soon
+
 
 
 
