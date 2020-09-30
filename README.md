@@ -1124,7 +1124,11 @@ fix it really soon)
 
 ### Day 259   sep 29 , 2020
 
-**Today's Progress** comlreted with the scala(1st blog) publish it soon
+**Today's Progress** completed with the scala(1st blog) publish it soon
+
+### Day 260   sep 30 , 2020
+
+**Today's Progress** shifting my blogs from github pages to medium
 
 
 
