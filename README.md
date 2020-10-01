@@ -1130,6 +1130,10 @@ fix it really soon)
 
 **Today's Progress** shifting my blogs from github pages to medium
 
+### Day 261   sep 30 , 2020
+
+**Today's Progress** created 4 PRs for hactoberfest2020
+
 
 
 
