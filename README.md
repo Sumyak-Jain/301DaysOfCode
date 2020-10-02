@@ -1134,6 +1134,10 @@ fix it really soon)
 
 **Today's Progress** created 4 PRs for hactoberfest2020
 
+### Day 262   oct 02 , 2020
+
+**Today's Progress** started with 30days of google cloud, today completed Getting Started: Create and Manage Cloud Resources
+
 
 
 
