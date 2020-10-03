@@ -1139,6 +1139,13 @@ fix it really soon)
 **Today's Progress** started with 30days of google cloud, today completed Getting Started: Create and Manage Cloud Resources
 
 
+### Day 263   oct 03 , 2020
+
+**Today's Progress** completed with cloud storage and IAM in GCP and published 3 blogs on medium
+
+**link:** username for medium sumyak jain
+
+
 
 
 
