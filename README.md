@@ -1143,7 +1143,11 @@ fix it really soon)
 
 **Today's Progress** completed with cloud storage and IAM in GCP and published 3 blogs on medium
 
-**link:** username for medium sumyak jain
+**link:** username for medium @Sumyak_jain
+
+### Day 264   oct 04 , 2020
+
+**Today's Progress** completed with Perform Foundational Infrastructure Tasks in Google Cloud ,in 30 days of google cloud and started with hands on Scala
 
 
 
