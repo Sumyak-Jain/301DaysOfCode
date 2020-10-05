@@ -1150,6 +1150,14 @@ fix it really soon)
 **Today's Progress** completed with Perform Foundational Infrastructure Tasks in Google Cloud ,in 30 days of google cloud and started with hands on Scala
 
 
+### Day 265   oct 05 , 2020
+
+**Today's Progress** completed with Managing Deployments Using Kubernetes Engine ,in 30 days of google cloud and also one of my blogs got published on https://blog.usejournal.com/
+
+**link:** https://blog.usejournal.com/how-to-make-a-basic-ci-cd-pipeline-using-jenkins-4ff2cf66078e
+
+
+
 
 
 
