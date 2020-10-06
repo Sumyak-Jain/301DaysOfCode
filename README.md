@@ -1156,6 +1156,11 @@ fix it really soon)
 
 **link:** https://blog.usejournal.com/how-to-make-a-basic-ci-cd-pipeline-using-jenkins-4ff2cf66078e
 
+### Day 266   oct 06 , 2020
+
+**Today's Progress** completed with Setup and Configure a Cloud Environment in Google Cloud
+
+
 
 
 
