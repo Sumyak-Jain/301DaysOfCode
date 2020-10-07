@@ -1160,6 +1160,10 @@ fix it really soon)
 
 **Today's Progress** completed with Setup and Configure a Cloud Environment in Google Cloud
 
+### Day 267   oct 07 , 2020
+
+**Today's Progress** created some PRs for hactoberfest and another blog got published on FAUN
+
 
 
 
