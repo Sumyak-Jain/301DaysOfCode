@@ -1164,6 +1164,12 @@ fix it really soon)
 
 **Today's Progress** created some PRs for hactoberfest and another blog got published on FAUN
 
+### Day 268   oct 08 , 2020
+
+**Today's Progress** created some more  PRs for hactoberfest previous one got merged and also collected 3 badges for track 1 in 30 days of google cloud 3 more to go!
+
+**link:** https://www.qwiklabs.com/public_profiles/0d244bf7-574c-47e0-bcd7-387eb5861232
+
 
 
 
