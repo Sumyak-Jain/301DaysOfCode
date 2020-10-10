@@ -1176,6 +1176,11 @@ fix it really soon)
 
 **link:** https://github.com/Sumyak-Jain/Scala
 
+### Day 270   oct 10 , 2020
+
+**Today's Progress** working on scala 
+
+
 
 
 
