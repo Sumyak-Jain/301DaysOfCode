@@ -1184,6 +1184,10 @@ fix it really soon)
 
 **Today's Progress** working on scala 
 
+### Day 272   oct 12 , 2020
+
+**Today's Progress** working on scala and completed Orchestrating the Cloud with Kubernetes for 30 days of google cloud
+
 
 
 
