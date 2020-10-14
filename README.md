@@ -1190,7 +1190,11 @@ fix it really soon)
 
 ### Day 273   oct 13 , 2020
 
-**Today's Progress** working on scala 
+**Today's Progress** working on scala
+
+### Day 274   oct 14 , 2020
+
+**Today's Progress** working on scala and completed some more tasks for 30 days of google cloud.
 
 
 
