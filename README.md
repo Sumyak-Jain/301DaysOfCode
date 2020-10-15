@@ -1196,6 +1196,11 @@ fix it really soon)
 
 **Today's Progress** working on scala and completed some more tasks for 30 days of google cloud.
 
+### Day 275   oct 15 , 2020
+
+**Today's Progress** working on scala and completed some more tasks for 30 days of google cloud.
+
+
 
 
 
