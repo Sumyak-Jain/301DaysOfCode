@@ -1200,6 +1200,13 @@ fix it really soon)
 
 **Today's Progress** working on scala and completed some more tasks for 30 days of google cloud.
 
+### Day 276   oct 16 , 2020
+
+**Today's Progress** working on scala and completed with Deploy to Kubernetes in Google Cloud quest for 30 days of google cloud.
+
+**link:** https://google.qwiklabs.com/public_profiles/0d244bf7-574c-47e0-bcd7-387eb5861232
+**link:**  https://github.com/Sumyak-Jain/Scala
+
 
 
 
