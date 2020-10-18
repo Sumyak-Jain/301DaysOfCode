@@ -1216,6 +1216,7 @@ fix it really soon)
 
 **Today's Progress** working on scala
 
+.
 
 
 
