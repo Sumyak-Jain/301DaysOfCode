@@ -1212,6 +1212,10 @@ fix it really soon)
 
 **Today's Progress** working on scala
 
+### Day 278   oct 18 , 2020
+
+**Today's Progress** working on scala
+
 
 
 
