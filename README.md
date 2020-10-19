@@ -1216,6 +1216,11 @@ fix it really soon)
 
 **Today's Progress** working on scala
 
+### Day 279   oct 19 , 2020
+
+**Today's Progress** working on scala
+
+**link:** https://github.com/Sumyak-Jain/Scala
 
 
 
