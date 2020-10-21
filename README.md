@@ -1228,6 +1228,10 @@ fix it really soon)
 
 **link:** https://github.com/Sumyak-Jain/Scala
 
+### Day 281   oct 21 , 2020
+
+**Today's Progress** working on scala
+
 
 
 
