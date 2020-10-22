@@ -1233,6 +1233,11 @@ fix it really soon)
 **Today's Progress** working on scala
 
 
+### Day 282   oct 22 , 2020
+
+**Today's Progress** working on scala and also completed my hactoberfest2020
+
+
 
 
 
