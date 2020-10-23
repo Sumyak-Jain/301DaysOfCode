@@ -1237,6 +1237,15 @@ fix it really soon)
 
 **Today's Progress** working on scala and also completed my hactoberfest2020
 
+### Day 283   oct 23 , 2020
+
+**Today's Progress** working on scala
+
+**link:** https://github.com/Sumyak-Jain/Scala
+
+
+
+
 
 
 
