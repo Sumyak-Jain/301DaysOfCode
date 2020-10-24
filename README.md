@@ -1243,6 +1243,11 @@ fix it really soon)
 
 **link:** https://github.com/Sumyak-Jain/Scala
 
+### Day 284   oct 24 , 2020
+
+**Today's Progress** working on scala
+
+**link:** https://github.com/Sumyak-Jain/Scala
 
 
 
