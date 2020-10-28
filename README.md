@@ -1261,6 +1261,10 @@ fix it really soon)
 
 **link:** https://github.com/Sumyak-Jain/Scala
 
+### Day 287   oct 27 , 2020
+
+**Today's Progress** started working apache spark
+
 
 
 
