@@ -1263,11 +1263,17 @@ fix it really soon)
 
 ### Day 287   oct 27 , 2020
 
-**Today's Progress** started working apache spark
+**Today's Progress** started working on apache spark
 
 ### Day 288-289   oct 28-29 , 2020
 
-**Today's Progress** working apache spark
+**Today's Progress** working on apache spark
+
+### Day 290   oct 30 , 2020
+
+**Today's Progress** working on apache spark also completed track1 for 30 days of google cloud
+
+**link** https://google.qwiklabs.com/public_profiles/0d244bf7-574c-47e0-bcd7-387eb5861232
 
 
 
