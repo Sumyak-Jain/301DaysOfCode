@@ -1275,6 +1275,10 @@ fix it really soon)
 
 **link** https://google.qwiklabs.com/public_profiles/0d244bf7-574c-47e0-bcd7-387eb5861232
 
+### Day 291   oct 31 , 2020
+
+**Today's Progress**  working on apache spark
+
 
 
 
