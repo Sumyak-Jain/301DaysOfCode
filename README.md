@@ -1283,6 +1283,10 @@ fix it really soon)
 
 **Today's Progress**  working on apache spark
 
+### Day 293   nov 02 , 2020
+
+**Today's Progress**  working on apache spark
+
 
 
 
