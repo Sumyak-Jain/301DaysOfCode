@@ -1287,6 +1287,14 @@ fix it really soon)
 
 **Today's Progress**  working on apache spark
 
+### Day 294   nov 03 , 2020
+
+**Today's Progress**  created a VM using vagrant and made a docker image of ubuntu
+
+**link:** 
+
+**link:** 
+
 
 
 
