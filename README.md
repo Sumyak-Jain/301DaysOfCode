@@ -1307,6 +1307,10 @@ fix it really soon)
 
 **Today's Progress**  working on apache spark got stuck at a point since 2 days
 
+### Day 298   nov 07 , 2020
+
+**Today's Progress**  working on apache spark and going to start with a project on making a bot for attending online classes
+
 
 
 
