@@ -1311,6 +1311,9 @@ fix it really soon)
 
 **Today's Progress**  working on apache spark and going to start with a project on making a bot for attending online classes
 
+### Day 299   nov 08 , 2020
+
+**Today's Progress** started working on my new project 
 
 
 
