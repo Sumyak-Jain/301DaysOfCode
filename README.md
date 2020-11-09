@@ -1315,6 +1315,10 @@ fix it really soon)
 
 **Today's Progress** started working on my new project 
 
+### Day 300   nov 09 , 2020
+
+**Today's Progress** working on my new project written a test script for that to check its basic functionality
+
 
 
 
