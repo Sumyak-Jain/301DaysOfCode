@@ -1319,6 +1319,12 @@ fix it really soon)
 
 **Today's Progress** working on my new project written a test script for that to check its basic functionality
 
+### Day 301   nov 10 , 2020
+
+**Today's Progress** practiced deploying docker container and adding more functionalities to my new project
+
+**Link** 
+
 
 
 
