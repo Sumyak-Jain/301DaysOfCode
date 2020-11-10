@@ -1321,9 +1321,9 @@ fix it really soon)
 
 ### Day 301   nov 10 , 2020
 
-**Today's Progress** practiced deploying docker container and adding more functionalities to my new project
+**Today's Progress** practiced deploying docker container and added more functionalities to my new project
 
-**Link** 
+**Link:** https://github.com/Sumyak-Jain/CICD-LAB-FILE-FOLDERS/blob/master/R171218106/SumyakJain_EXP13.pdf 
 
 
 
